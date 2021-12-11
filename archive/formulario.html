@@ -6,120 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulário Resilia</title>
-
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
-        body {
-            background-image: linear-gradient(to right, rgb(255, 208, 0), rgb(255, 231, 126));
-            font-family: 'Archivo', sans-serif;
-        }
-
-        .box {
-            color: white;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: rgba(0, 0, 0, 0.6);
-            padding: 15px;
-            border-radius: 15px;
-            width: 340px;
-        }
-
-        fieldset {
-            border: 3px solid rgb(255, 208, 0);
-        }
-
-        legend {
-            text-transform: uppercase;
-            color: black;
-            border: 1px solid rgb(255, 208, 0);
-            padding: 10px;
-            text-align: center;
-            background-color: rgb(255, 208, 0);
-            border-radius: 10px;
-        }
-
-        .inputBox {
-            position: relative;
-        }
-
-        .inputUser {
-            background: none;
-            border: none;
-            border-bottom: 1px solid white;
-            outline: none;
-            color: white;
-            font-size: 15px;
-            width: 100%;
-            letter-spacing: 2px;
-            ;
-        }
-
-        .labelInput {
-            position: absolute;
-            top: 0px;
-            left: 0px;
-            pointer-events: none;
-            transition: .5s;
-        }
-
-        .inputUser:focus~.labelInput,
-        .inputUser:valid~.labelInput {
-            top: -20px;
-            font-size: 12px;
-            color: rgb(255, 208, 0)
-        }
-
-        #data-nascimento {
-            text-align: center;
-            border: none;
-            border-radius: 10px;
-            width: 130px;
-            padding: 8px;
-            outline: none;
-            position: relative;
-            left: auto;
-        }
-
-
-        .conheceu-resilia {
-            margin-top: 5px;
-            background-color: white;
-            border: none;
-            border-radius: 4px;
-            padding: 5px 5px;
-            font-family: "Archivo", sans-serif;
-            font-weight: 600;
-            font-size: 13px;
-            color: #0B0B0B;
-            border: 1px solid transparent;
-            transition: 0.4s;
-            height: 30px;
-            width: 100%;
-        }
-
-        #submit {
-            margin-top: -15px;
-            background: rgb(255, 208, 0);
-            width: 100%;
-            border: none;
-            padding: 15px;
-            color: black;
-            font-family: "Archivo", sans-serif;
-            font-size: 14px;
-            cursor: pointer;
-            border-radius: 10px;
-            transition: .5s;
-        }
-
-        #submit:hover {
-            background: white;
-            color: rgb(255, 208, 0);
-            transition: .5s;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -160,7 +47,8 @@
                         <option value="">---</option>
                         <option value="Anuncio no Facebook/Instagram">Anuncio no Facebook/Instagram</option>
                         <option value="Anuncio no Google ou outros sites">Anuncio no Google ou outros sites</option>
-                        <option value="Divulgação de alguma empresa parceira">Divulgação de alguma empresa parceira</option>
+                        <option value="Divulgação de alguma empresa parceira">Divulgação de alguma empresa parceira
+                        </option>
                         <option value="Imprensa (jornais, TV, revistas)">Imprensa (jornais, TV, revistas)</option>
                         <option value="Indicação de um amigo">Indicação de um amigo</option>
                         <option value="Panfleto">Panfleto</option>
