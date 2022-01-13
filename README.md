@@ -9,7 +9,7 @@
 </div>
 
 <h2 id="sobre">Sobre 🔎</h2>
-<p>Formulário criado durante um homework passado pelo facilitador tech Artur Moreira, do curso webdev Full Stack da Resilia onde precisavamos criar um formulário utilizando HTML e CSS com os seguintes campos:
+<p>Formulário criado durante um homework passado pelo facilitador tech Artur Moreira, do curso webdev Full Stack da Resilia onde precisávamos criar um formulário utilizando HTML e CSS com os seguintes campos:
 
 * Nome
 * Email
