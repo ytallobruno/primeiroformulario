@@ -1,11 +1,11 @@
   # Projeto: Formulário de inscrição Resilia 📋
 
-<div align=center>
-  <a href="#sobre" align=center> Sobre </a>&nbsp;&nbsp;&nbsp;
-  <a href="#andamento" align=center> Andamento </a>&nbsp;&nbsp;&nbsp;
-  <a href="#linguagens" align=center> Softwares & Ferramentas utilizadas </a>&nbsp;&nbsp;&nbsp;
-  <a href="#habilidades" align=center> Habilidades adquiridas </a>&nbsp;&nbsp;&nbsp;
-  <a href="#autor" align=center> Autor </a> 
+<div id="inicio" align=center>
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
+  <a href="#andamento">Andamento</a>&nbsp;&nbsp;&nbsp;
+  <a href="#linguagens">Softwares & Ferramentas utilizadas</a>&nbsp;&nbsp;&nbsp;
+  <a href="#habilidades">Habilidades adquiridas</a>&nbsp;&nbsp;&nbsp;
+  <a href="#autor">Autor</a>
 </div>
 
 <h2 id="sobre">Sobre 🔎</h2>
@@ -42,15 +42,23 @@
 - Gradientes de cores (CSS)
 - Pseudo-classes (CSS)
 
+<hr>
+
 <div id="autor" align="center">
   
   **Criado e desenvolvido por [Ytallo Bruno](https://www.linkedin.com/in/ytallobruno/).**
   
  <div align="center"> 
-    <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-mail"></a>
+  <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-mail"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/ytallobruno" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40em" title="GitHub de Ytallo"></a>
+  <a href="https://github.com/ytallobruno" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40em" title="GitHub de Ytallo"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="LinkedIn de Ytallo"></a>
- </div>
+  <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="LinkedIn de Ytallo"></a>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  &#129145;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#129145;
 </div>
