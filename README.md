@@ -33,7 +33,7 @@
 
 - Indentação do código
 - Link entre html x css externo
-- Utilização de fontes externas via Google Fonts
+- Utilização de fontes de texto externas
 - Label, Input (HTML)
 - Option, Select (HTML)
 - Uso do atributo For (HTML)
